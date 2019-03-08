@@ -7,6 +7,8 @@ TO RUN THE EXAMPLE,
 
 Copy all these files into a work directory.
 
+Copy the "makeweb.pl" Perl file from the "perl" directory.
+
 Enter:
 
 perl makeweb.pl test
