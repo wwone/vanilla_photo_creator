@@ -17,3 +17,8 @@ makeweb.pl -- the Perl script that reads the "project"-specific text files and c
 
 NOTE: the example "_vfront.txt" boilerplate file provided here refers to the local copy of the Vanilla CSS file. You should alter all project-specific boilerplate files to point to the appropriate CSS file.
 
+An example output of this Perl script is live at:
+
+http://swansongrp.com/photos_night.html
+
+along with several others.
