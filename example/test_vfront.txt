@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<!--
+Change this boilerplate for your production environment. I've made some
+of the items "generic" for you.
+
+NOTE: be sure to change the location of the Vanilla CSS
+file to your production version.
+
+
+
+-->
+
+
+<head>
+ <meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="Content-Type" content="text/html"/>
+<meta name="Author" content="YOU"/>
+<link rel="stylesheet" href="http://yourserver.com/vanilla-framework-version-1.8.0.min.css" />
+   <meta name="keywords" content="photographs"/>
+<meta name="description" content="This page lists some of YOUR photos.  This page is part of the YOUR web pages. explanatory bla bla"/>
+  <title>Night Photographs by YOU</title>
+
+  <style type="text/css">
+    .hidx {
+    display: none;
+    }
+    .pic_title {
+    font-weight: bold;
+    font-size: 110%;
+    }
+  </style>
+  
+
+</head>
+<body>
+<!-- <section class="p-strip " style="border: 1px solid #cdcdcd;">
+-->
+<section class="p-strip--accent">
+  <div class="row">
+    <div class="col-12">
+  <h2>
+Photographs by YOU
+  </h2>
+    <!-- image here -->
+ <!-- <img style="display: block; margin-left: auto; margin-right: auto;float:none;margin-top:1em;color:black;border:solid .1em black; " 
+-->
+ <img style="display: block; margin-top:1em;color:black;border:solid .1em black; " 
+ src="http://YOURPHOTO.jpg" alt="YOUR PHOTO"/>
+
+       <h3>
+<br/><br/>
+Introduction</h3>
+<p >
+These are YOUR photos. Additional explanatory bla bla
+
+<br/><br/>
+<b>CLICK ON THE THUMBNAIL IMAGES TO VIEW A LARGER IMAGE</b>
+</p>
+</div> <!-- end wide col -->
+</div> <!-- end row -->
+<!-- work area for new Perl work -->
+</section> <!-- must stop for following accent section -->
+
