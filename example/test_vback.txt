@@ -1,0 +1,47 @@
+<!-- restart section -->
+<!-- <section class="p-strip " style="border: 1px solid #cdcdcd;">
+-->
+<section class="p-strip--accent">
+  <div class="row">
+    <div class="col-12">
+
+
+<p>
+    
+    
+
+<p>
+
+<br />
+
+</p>
+
+
+ 
+<p >
+  Copyright &#169; YOU
+</p>
+
+<h3>More Links</h3>
+    <p >
+      <a href="http://YOURSITE.com">Go back to YOUR SITE TOP.</a>
+    </p>
+
+           <p>
+             Page Layout Design Made Possible by: 
+          <a href="https://vanillaframework.io/">Vanilla</a>.
+      
+             <br />
+             <br />
+             <!-- NOTE that the script will substitute for the all-caps item below with
+             the current date, using the "date" command -->
+    Updated 
+DATE_FIELD
+</p>
+
+       </div> <!-- wide columnn -->
+     </div> <!-- row -->
+
+</section>
+
+  </body></html>
