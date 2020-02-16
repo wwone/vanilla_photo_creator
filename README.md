@@ -5,7 +5,7 @@ Vanilla (https://vanillaframework.io/) is a big step up in CSS layout for multip
 
 There are 3 input files:
 
-"project"_input.txt -- input file, described in its own documentation
+"project"_input.txt -- input file, contains links to full-size and thumbnail images, as well as title narrative (see doc)
 
 "project"_vtront.txt -- boilerplate for beginning of web page
 
